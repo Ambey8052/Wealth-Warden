@@ -25,6 +25,7 @@ const Home = () => {
         </div>
       </div>
      <AboutWealthWarden />
+    
       <Footer />
     </>
   );
